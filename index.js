@@ -1,8 +1,7 @@
 'use strict';
 
-if(module) {
-	module.exports = BrowserFile;
-}
+module.exports = BrowserFile;
+
 
 /**
  * Class: Browserfile
